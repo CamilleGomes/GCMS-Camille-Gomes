@@ -1,2 +1,8 @@
-# GCMS-Camille-Gomes
-Trabalhando no repositório próprio
+# GCMS- 2022-2
+Repositório da turma de GCMS do IFPE-Recife, 2022.2
+
+##Colaboradores
+
+Coloque seu nome abaixo se você é um dos colaboradores do repositório:
+* Camille Gomes(dono, @CamilleGomes)
+
