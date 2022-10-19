@@ -5,4 +5,5 @@ Repositório da turma de GCMS do IFPE-Recife, 2022.2
 
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Camille Gomes(dono, @CamilleGomes)
+* Ramide Dantas (@ramidedantas)
 
